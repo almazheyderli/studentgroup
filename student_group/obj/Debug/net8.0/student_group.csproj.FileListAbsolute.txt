@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\c#OOP\ac.mod\student_group\student_group\obj\Debug\net8.0\student_group.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#OOP\ac.mod\student_group\student_group\obj\Debug\net8.0\student_group.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#OOP\ac.mod\student_group\student_group\obj\Debug\net8.0\student_group.AssemblyInfo.cs
+C:\Users\User\Desktop\c#OOP\ac.mod\student_group\student_group\obj\Debug\net8.0\student_group.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#OOP\ac.mod\student_group\student_group\obj\Debug\net8.0\student_group.sourcelink.json
+C:\Users\User\Desktop\c#OOP\ac.mod\student_group\student_group\bin\Debug\net8.0\student_group.exe
+C:\Users\User\Desktop\c#OOP\ac.mod\student_group\student_group\bin\Debug\net8.0\student_group.deps.json
+C:\Users\User\Desktop\c#OOP\ac.mod\student_group\student_group\bin\Debug\net8.0\student_group.runtimeconfig.json
+C:\Users\User\Desktop\c#OOP\ac.mod\student_group\student_group\bin\Debug\net8.0\student_group.dll
+C:\Users\User\Desktop\c#OOP\ac.mod\student_group\student_group\bin\Debug\net8.0\student_group.pdb
+C:\Users\User\Desktop\c#OOP\ac.mod\student_group\student_group\obj\Debug\net8.0\student_group.dll
+C:\Users\User\Desktop\c#OOP\ac.mod\student_group\student_group\obj\Debug\net8.0\refint\student_group.dll
+C:\Users\User\Desktop\c#OOP\ac.mod\student_group\student_group\obj\Debug\net8.0\student_group.pdb
+C:\Users\User\Desktop\c#OOP\ac.mod\student_group\student_group\obj\Debug\net8.0\student_group.genruntimeconfig.cache
+C:\Users\User\Desktop\c#OOP\ac.mod\student_group\student_group\obj\Debug\net8.0\ref\student_group.dll
